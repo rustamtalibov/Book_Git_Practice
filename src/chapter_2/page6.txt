@@ -2,4 +2,4 @@ Lesson started
 
 Open your book
 
-go to the page 10
+editor: Java is cool
